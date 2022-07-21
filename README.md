@@ -1,4 +1,4 @@
-![Header](https://github.com/Vladimir-Strelec/vladimir-strelec/blob/main/assets/5eeea355389655.59822ff824b72.gif)
+![Header](https://github.com/Vladimir-Strelec/vladimir-strelec/blob/main/assets/HeaderBG-1-1.gif)
 
 About me
 
