@@ -18,3 +18,5 @@
 [![Flutter](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff0066)](https://instagram.com/vladi_strelec?igshid=YmMyMTA2M2Y=)
 [![Flutter](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir-Strelec&show_icons=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Strelec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
